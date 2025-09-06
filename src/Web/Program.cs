@@ -1,4 +1,3 @@
-﻿// My first change
 using System.Net.Mime;
 using Ardalis.ListStartupServices;
 using Azure.Identity;
